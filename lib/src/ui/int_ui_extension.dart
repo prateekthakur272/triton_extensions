@@ -1,0 +1,3 @@
+extension IntUiExtension on int {
+
+}
