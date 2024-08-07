@@ -1,4 +1,6 @@
 library triton_extensions;
 
-export 'src/core/core.dart';
-export 'src/ui/ui.dart';
+export 'src/build_context_extension.dart';
+export 'src/build_context_mediaquery_extension.dart';
+export 'src/build_context_theme_extension.dart';
+export 'src/spacing_extension.dart';
